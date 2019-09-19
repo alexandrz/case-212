@@ -260,3 +260,4 @@
 | Васенков Максим                    | Ведущий программист, Этерон, Смоленск   |
 | Дмитрий Семьюшкин                  | Frontend Developer, Pleeco              |
 | Борис Стельмах                     | Web Developer                             |
+| Александр Зыков                    | Backend Team Lead, Etventure, Гамбург   |
